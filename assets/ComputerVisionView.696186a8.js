@@ -1,0 +1,1 @@
+import{_ as t}from"./index.bda7e232.js";const e={};function o(r,n){return" To do: - take or upload photo of handwritten or typed text - get text result "}var _=t(e,[["render",o]]);export{_ as default};
